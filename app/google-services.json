@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "752607296961",
+    "firebase_url": "https://smart-harati-7829d.firebaseio.com",
+    "project_id": "smart-harati-7829d",
+    "storage_bucket": "smart-harati-7829d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:752607296961:android:df36d722f088d7f3140340",
+        "android_client_info": {
+          "package_name": "com.gunjon.smartharati"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "752607296961-10mnhgbv3bt38e561p9kukaipf5td5c5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gunjon.smartharati",
+            "certificate_hash": "ddb057d0ff6903e382536e77dce403bfe0074b0f"
+          }
+        },
+        {
+          "client_id": "752607296961-niofcikn0hgi19s27laesrlonhq8rcdp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0FLvHBpL-E4uhnTQ4yHjd6lT--t7z4yI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "752607296961-niofcikn0hgi19s27laesrlonhq8rcdp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
